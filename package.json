@@ -1,6 +1,6 @@
 {
   "name": "react-native-scalable-image-ts",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "",
   "author": "",
   "license": "MIT",
@@ -22,26 +22,25 @@
     "deploy": "gh-pages -d example/build"
   },
   "dependencies": {
-    "react": "^16.7.20",
-    "react-native": "^0.55.20"
+    "react": "16.5.0",
+    "react-native": "0.57.1"
   },
   "peerDependencies": {
     "prop-types": "^15.5.4",
-    "react": "^15.0.0 || ^16.0.0",
+    "react": "^16.5.0",
     "react-dom": "^15.0.0 || ^16.0.0",
-    "react-native": "^0.55.20"
+    "react-native": "^0.57.1"
   },
   "devDependencies": {
     "@svgr/rollup": "^2.4.1",
     "@types/jest": "^23.1.5",
-    "@types/react": "^16.7.20",
-    "@types/react-native": "^0.55.20",
+    "@types/react": "^16.5.0",
+    "@types/react-native": "^0.57.1",
     "@types/react-dom": "^16.0.5",
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
     "cross-env": "^5.1.4",
     "gh-pages": "^1.2.0",
-    "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts-ts": "^2.16.0",
     "rollup": "^0.62.0",
