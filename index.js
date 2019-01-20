@@ -1,0 +1,1 @@
+export { ScalableImage, scalableImage } from './dist'

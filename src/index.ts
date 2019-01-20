@@ -1,1 +1,0 @@
-export { ScalableImage, scalableImage } from './scalableImage'
